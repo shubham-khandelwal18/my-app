@@ -8,7 +8,7 @@ class Contact extends Component{
 	         <Cell col={6}>
 	          <h2>Shubham Khandelwal</h2>
 	          <img
-                src="https://instagram.fjai2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/39665455_257166374912530_2166561377332756480_n.jpg?_nc_ht=instagram.fjai2-1.fna.fbcdn.net&_nc_ohc=8YASSPKxuTAAX8-T8sP&oh=b86c8c7c187489433da013420bff2241&oe=5F26CF21"
+                src="https://instagram.fjai2-2.fna.fbcdn.net/v/t51.2885-19/s320x320/39665455_257166374912530_2166561377332756480_n.jpg?_nc_ht=instagram.fjai2-2.fna.fbcdn.net&_nc_ohc=uDXz4m8uMkUAX94QxUd&oh=2f5ca3d5786b52fbffd4b3c12e971919&oe=5F5250A1"
                 alt="avatar"
                 style={{height:'250px'}}
 	          />

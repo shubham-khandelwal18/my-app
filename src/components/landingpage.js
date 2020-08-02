@@ -7,14 +7,14 @@ class Landing extends Component{
           <Grid className="landing-grid">
            <Cell col={12}>
            <img
-           src="https://instagram.fjai2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/39665455_257166374912530_2166561377332756480_n.jpg?_nc_ht=instagram.fjai2-1.fna.fbcdn.net&_nc_ohc=8YASSPKxuTAAX8-T8sP&oh=b86c8c7c187489433da013420bff2241&oe=5F26CF21"
+           src="https://instagram.fjai2-2.fna.fbcdn.net/v/t51.2885-19/s320x320/39665455_257166374912530_2166561377332756480_n.jpg?_nc_ht=instagram.fjai2-2.fna.fbcdn.net&_nc_ohc=uDXz4m8uMkUAX94QxUd&oh=2f5ca3d5786b52fbffd4b3c12e971919&oe=5F5250A1"
            alt="avatar"
            className="avatar-img"
             />
             <div className="banner-text">
             <h1>Full Stack Web Developer </h1>
             <hr/>
-            <p>HTML |CSS | BootStrap | Javascript | React | Postgree SQL | NodeJS | Express</p>
+            <p>HTML |CSS | BootStrap | Javascript | React  | NodeJS | Express</p>
             <div className="social-links">
             {/* LinkedIn */}
             <a href="https://www.linkedin.com/in/shubham-khandelwal-7a8a63195/" rel="noopener norefferer" target="_blank">
